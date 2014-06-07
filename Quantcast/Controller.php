@@ -28,7 +28,7 @@ class Controller extends \Piwik\Plugin\Controller
 	  {
 	 echo '<h1>Demo Data for Local Host</h1>';
 	 $dataurl= "com.linkedin";
-	 $durl= "Sample Data using linkedin";
+	 $durl= "Sample Data using LinkedIn";
 	 }
 else
   {
