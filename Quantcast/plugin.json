@@ -1,0 +1,13 @@
+{
+ "name": "QuantcastPlugin",
+ "version": "0.1.0",
+ "description": "Quantcast Demographics allows you to have your sites Quantcast info on your dashboard.",
+ "theme": false,
+ "authors": [
+     {
+         "name": "Adrian",
+         "email": "",
+         "homepage": "http://adrianspeyer.com"
+     }
+ ]
+}
